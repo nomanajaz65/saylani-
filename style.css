@@ -1,0 +1,181 @@
+.nav{
+    background-color: gray;
+}
+
+
+
+.one{display: flex;
+    margin-top: 80px;
+    justify-content: center;
+
+}
+.two{
+    margin-left: 100px;
+}
+
+.def{
+    display: flex;
+    margin-left: 30px;
+}
+
+.ghi{
+    margin-left: 80px;
+}
+
+
+.ab{
+    width: 20px;
+}
+.bc{
+    width: 300px;
+}
+
+.ac{
+    width: 50px;
+    
+}
+
+.video{
+    margin-left: 60px;
+    /* height: 100px; */
+}
+
+.videos{
+    margin-left: 60px;
+    /* height: 100px; */
+}
+.three{
+    margin-left: 60px;
+    /* height: 100px; */
+}
+
+.four{
+    margin-left: 60px;
+    /* height: 100px; */
+}
+
+.sub{
+    /* width: 100px; */
+    font-size:small;
+    padding: 10px;
+    /* height: 10px; */
+
+}
+
+.subs{
+    /* width: 100px; */
+    font-size:small;
+    padding: 20px;
+    height: 10px;
+    /* background-color: white; */
+}
+
+.donate{
+    background-color: lightblue;
+
+    color: white;
+
+
+
+}
+
+.donate:hover{
+    background-size: cover;
+    /* padding: 10px;
+     */
+transform: scale(1.1);
+    }
+
+.rd{
+    padding: 20px;
+    border: 30px;
+    border-radius: 40px solid black;
+}
+
+.hk{
+    background-color: rgb(18, 147, 147);
+}
+
+.elec{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.elec:hover{
+transform: scale(1.1);
+background-color: gray;
+padding: 10px;
+
+
+}
+
+.e{
+    background-color: bisque;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.e:hover{
+transform: scale(1.1);
+background-color: gray;
+padding: 10px;
+
+
+}
+
+.el{
+    background-color: bisque;
+    color: black;
+    border-radius: 10px;
+
+}
+.el:hover{
+transform: scale(1.1);
+background-color: gray;
+padding: 10px;
+
+}
+
+.ele{
+    background-color: bisque;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.ele:hover{
+transform: scale(1.1);
+background-color: gray;
+padding: 10px;
+
+}
+
+.l{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.l:hover{
+transform: scale(1.1);
+padding: 10px;
+
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.d{
+    background-color: green;
+    length:200px
+
+}
+
+.sliders{
+
+    width: 800px;
+}
